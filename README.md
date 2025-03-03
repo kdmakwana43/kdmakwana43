@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm K D Makwana
+# Hi there! 👋 I'm KD
 
 Welcome to my GitHub profile! I'm passionate about coding, building innovative solutions, and solving complex problems with technology.
 
