@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm K D Makwana
 
-<!--
-**kdmakwana43/kdmakwana43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, building innovative solutions, and solving complex problems with technology.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔹 **10 years of experience** working in **AS Services Company**
+- 🔹 Full-stack developer specializing in **MEAN & MERN Stack**
+- 🔹 Strong background in **backend development, cloud integration, and database optimization**
+- 🔹 Passionate about **DSA, AI Models, Robotics, and Ethical Hacking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+### **Frontend & Backend**
+- **MEAN & MERN Stack:** MongoDB, Express.js, Angular/React, Node.js
+- **Python:** Django, Flask, FastAPI
+- **PHP:** Laravel, CodeIgniter, Symfony
+
+### **Database**
+- MongoDB, MySQL, Cassandra
+
+### **System Administration & DevOps**
+- Linux, Servers, DevOps, Docker, Kubernetes
+
+### **Mobile Development**
+- Flutter, React Native, NativeScript, Cordova
+
+### **Desktop Applications**
+- Electron.js, Python, Flutter
+
+### **AI & Machine Learning**
+- ChatGPT, Llama, and other AI models
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdmakwana43&show_icons=true&theme=radical)
+
+
+Let's build something amazing together! 🚀
